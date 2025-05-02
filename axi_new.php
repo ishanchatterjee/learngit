@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL | E_STRICT);
 //adding comment to see the change
-
+echo "commited from git";
 use Magento\Framework\App\Bootstrap;
 require  '/home/kadoshop/domains/grotekadoshop.nl/public_html/app/bootstrap.php';
 $params = $_SERVER;
